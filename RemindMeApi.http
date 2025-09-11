@@ -1,0 +1,6 @@
+@RemindMeApi_HostAddress = http://localhost:5110
+
+GET {{RemindMeApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
